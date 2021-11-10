@@ -1,0 +1,26 @@
+form{
+   background-color: #3E065F; 
+   color: #ffffff;
+}
+
+input{
+    color: #ffffff;
+}
+
+
+
+button {
+    background-color: #8E05C2;
+    border: 6px solid #700B97;
+    border-radius: 10px;
+    width: 150px;
+    color: #ffffff;
+}
+
+.submit {
+    background-color: #8E05C2;
+    border: 6px solid #700B97;
+    border-radius: 10px;
+    width: 150px;
+    color: #ffffff;
+}
